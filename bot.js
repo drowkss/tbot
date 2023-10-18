@@ -1,33 +1,6 @@
-/* Weem nya um ;v
-Script By MrDevils
-
-kalau makai makai aja ngak usah nanyak apa itu apikey, apa itu rest api, apa itu api, kenapa ini nyenyenyenye 
-dah lah
-
-oh ya jangan lupa apikey iteach diganti sama apikey kalian 
-caranya kalian tinggal buat akun atau login ke:
-1655786295:AAEB1acJaFsStKY6iIfTa5f0z3LEn_CLaqYhttps://api.i-tech.id
-- lalu kalian buka informasi profile 
-- nah disitu kan ada apikey kalian kalian ganti pakai apikey kalian
-
-hayoo mau ngapain
-mau ngambil kode yah ? izin dulu sama creator
-
-semua yang ada di sini bersifat gratis jadi kamlian tidak perlu repot repot beli ampikey
-
-dilarang keras untuk menjual belikan script ini
-facebook : facebook.com/adimas.shadoet123
-instagram : adimas_shadoet
-
- ━━━━━❰･𝙆𝙀𝙔𝙂𝙀𝙉❉･❱━━━━━
-⏰Hora:21:47:04 || 📆Fecha:12-Oct-23
-👥NOMBRE: ✧ | ᴅʀᴏᴡᴋɪᴅ | ✧ SIN ACCESO
-🆔: 6234530051 ❌
-👤USUARIO: @drowkid01
-═══════════ ◖◍◗ ═══════════*/
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf('6303695167:AAEmbQW8sGOWWGJPD6SftclepUaazBUxrCo')
+const bot = new Telegraf('6494854146:AAErABsMuqTw1yRzunJA9IDHMfOzz1FLmdw')
 const axios = require('axios')
 
 /*********[ Apikey ]*********/
